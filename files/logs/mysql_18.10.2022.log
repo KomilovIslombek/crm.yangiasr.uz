@@ -1,0 +1,6 @@
+[2022-10-18 08:51:19] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?
+[2022-10-18 08:53:06] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?
+[2022-10-18 08:53:34] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?
+[2022-10-18 08:54:25] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?
+[2022-10-18 08:57:41] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?
+[2022-10-18 08:59:17] /groupsList/?page=1 - 00000,, SELECT * FROM teachers WHERE id = ?

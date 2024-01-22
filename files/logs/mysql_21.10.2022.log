@@ -1,0 +1,11 @@
+[2022-10-21 02:10:02] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:11:55] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:11:57] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:12:28] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:12:29] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:12:46] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:12:48] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 02:18:34] /editkafedra - 00000,, SELECT * FROM kafedra_sciences WHERE NOT science_id = ?
+[2022-10-21 12:38:17] /teachersList/?page=1 - 00000,, SELECT * FROM kafedra_teachers WHERE teacher_id = ?
+[2022-10-21 14:03:42] /teachersList/?page=1 - 00000,, SELECT * FROM kafedra_teachers WHERE teacher_id = ?
+[2022-10-21 14:03:43] /teachersList/?page=1 - 00000,, SELECT * FROM kafedra_teachers WHERE teacher_id = ?

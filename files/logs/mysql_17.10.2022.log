@@ -1,0 +1,2 @@
+[2022-10-17 02:32:34] /addStudent - 00000,, SELECT * FROM students WHERE code = ?
+[2022-10-17 03:00:09] /importStudent - 00000,, SELECT * FROM students WHERE code = ?
